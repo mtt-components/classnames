@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/JedWatson/classnames.git",
+    "version": "v2.2.0",
+    "name": "classnames",
+    "main": "index.js"
+}
